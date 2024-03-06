@@ -38,8 +38,8 @@ const fileFilter = (req, file, callback) => {
 
 const app = express();
 
-const privateKey = fs.readFileSync("server.key");
-const certificate = fs.readFileSync("server.cert");
+// const privateKey = fs.readFileSync("server.key");
+// const certificate = fs.readFileSync("server.cert");
 
 app.use(helmet());
 app.use(compression());
