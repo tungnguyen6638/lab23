@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "nguyenthanhtung6638",
+    "MONGO_PASSWORD": "lFtPWmxQnAdUTD9E",
+    "MONGO_DEFAULT_DATABASE": "feed",
+    "PORT": 5000
+  }
+}
